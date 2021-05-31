@@ -23,17 +23,13 @@
     bottom: 400px;
     padding-left: 100px;
     padding-right: 100px;
-}
+}*/
 .carousel-caption h4{
-    font-size: 30px;
-    font-weight: 500;
-    color: azure;
+    color: black;
 }
 .carousel-caption p{
-    font-size: 18px;
-    top:2rem;
-    color: aliceblue;
-}*/
+    color: black;
+}
 .slider-btn{
     margin-top: 30px;
 }
